@@ -1,7 +1,8 @@
+# Music_Application 
 
+This Music Application was made for the OOP 2023/2024 project assignment.
 
 <p align="center">
-  <a href="#Music_Application">Music Application</a> •
   <a href="#Author">Author</a> •
   <a href="#Description">Description</a> •
   <a href="#Database">Database</a> •
@@ -10,9 +11,6 @@
   <a href="#Further">Further developments</a>
 </p>
 
-# Music_Application 
-
-This Music Application was made for the OOP 2023/2024 project assignment.
 
 ## Author 
 Jucan Codruta-Elen | 2nd Year Computer Engineering | Technical University of Cluj-Napoca
@@ -45,12 +43,10 @@ There are also other classes for `SQLConnection`, `View`, `Controller`, `Model`,
 The database is managed by `Postgres SQL` and is fetched using the `jdbc driver`. There are CRUD operations implemented for multiple tables in the data base (for example: creating and deleting the user, adding new genres for an artist).
 The diagram:
 
-![image](https://github.com/OOP-Projects-2020-2021/Betting_Application/blob/master/res/diagramDB.png)
 
 ## Music_Player
 For each song, the music is played and stopped using the JLayer library. The play function is shown in the picture below:
 
-![image](https://github.com/OOP-Projects-2020-2021/Betting_Application/blob/master/res/json.png)
 
 # Visuals
 
@@ -58,21 +54,27 @@ Here I posted some screenshots of the main scenes.
 
 - `Sign In Page`
 
-![image](https://github.com/OOP-Projects-2020-2021/Betting_Application/blob/master/res/signIn.png)
 
-- `Bet Menu Page`
+- `Main Page` //write a review, see artist merch or listen to an artist, album or song
 
-![image](https://github.com/OOP-Projects-2020-2021/Betting_Application/blob/master/res/betMenu.png)
 
-- `Bet History Page`
+- `Artist Page` //you can select what album you want to listen to
 
-![image](https://github.com/OOP-Projects-2020-2021/Betting_Application/blob/master/res/betHistory.png)
 
-- `Admin Menu Page`  //which is a special kind of `User`
+- `Album Page` //you can select what song you want to listen to
 
-![image](https://github.com/OOP-Projects-2020-2021/Betting_Application/blob/master/res/adminMenu.png)
+
+- `Song Page` //you can play or stop the song
+
+
+- `Admin Page` //can add genres for an artist + see all reviews
+
+
+- `See Reviews Page` //only seen by the admin
+
 
 # Further
 
+- A prettier front-end
 - A liked songs playlist that can be seen by the user.
 - Another type of account: Artist. An artist will add new music and see only the reviews of them, their albums or their songs.
