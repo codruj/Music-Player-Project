@@ -12,7 +12,7 @@
 
 # Music_Application 
 
-This Betting Application was made for the OOP 2023/2024 project assignment.
+This Music Application was made for the OOP 2023/2024 project assignment.
 
 ## Author 
 Jucan Codruta-Elen | 2nd Year Computer Engineering | Technical University of Cluj-Napoca
