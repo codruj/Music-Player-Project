@@ -53,24 +53,31 @@ For each song, the music is played and stopped using the JLayer library. The pla
 Here I posted some screenshots of the main scenes.
 
 - `Sign In Page`
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/1SignIn.png)
 
 - `Main Page` //write a review, see artist merch or listen to an artist, album or song
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/2mainpage.png)
 
 - `Artist Page` //you can select what album you want to listen to
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/3artistpage.png)
 
 - `Album Page` //you can select what song you want to listen to
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/4albumpage.png)
 
 - `Song Page` //you can play or stop the song
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/5songpage.png)
 
 - `Admin Page` //can add genres for an artist + see all reviews
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/6adminmainpage.png)
 
 - `See Reviews Page` //only seen by the admin
+  
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/7seereviewspage.png)
 
 # Further
