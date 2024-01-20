@@ -42,36 +42,36 @@ There are also other classes for `SQLConnection`, `View`, `Controller`, `Model`,
 ## Database:
 The database is managed by `Postgres SQL` and is fetched using the `jdbc driver`. There are CRUD operations implemented for multiple tables in the data base (for example: creating and deleting the user, adding new genres for an artist).
 The diagram:
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/database.png)
 
 ## Music_Player
 For each song, the music is played and stopped using the JLayer library. The play function is shown in the picture below:
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/musicplayer.png)
 
 # Visuals
 
 Here I posted some screenshots of the main scenes.
 
 - `Sign In Page`
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/1SignIn.png)
 
 - `Main Page` //write a review, see artist merch or listen to an artist, album or song
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/2mainpage.png)
 
 - `Artist Page` //you can select what album you want to listen to
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/3artistpage.png)
 
 - `Album Page` //you can select what song you want to listen to
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/4albumpage.png)
 
 - `Song Page` //you can play or stop the song
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/5songpage.png)
 
 - `Admin Page` //can add genres for an artist + see all reviews
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/6adminmainpage.png)
 
 - `See Reviews Page` //only seen by the admin
-
+![image] (https://github.com/codruj/Music-Player-Project/readmepoze/7seereviewspage.png)
 
 # Further
 
